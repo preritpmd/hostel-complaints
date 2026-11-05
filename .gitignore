@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+hostel.db
+*.db
+.env
+.DS_Store
